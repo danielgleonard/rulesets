@@ -92,7 +92,13 @@ ul.contents > li > a{
 }
 
 ul.contents > li::before {
-	padding-right: 0.75em;
+    padding-right: 0.75em;
+    display: inline-block;
+    width: 1.5em;
+}
+
+ul.contents > li#up::before {
+	content: "\21A9";
 }
 
 ul.contents > li.directory::before {
