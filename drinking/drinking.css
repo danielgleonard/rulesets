@@ -1,0 +1,19 @@
+section ul {
+    list-style: none;
+}
+
+section li::before {
+	padding-right: 0.75em;
+}
+
+section#drink li::before {
+	content: "🍺";
+}
+
+section#finish li::before {
+	content: "🍻";
+}
+
+section#shot li::before {
+	content: "🥃";
+}
