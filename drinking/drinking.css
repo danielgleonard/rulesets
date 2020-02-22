@@ -15,13 +15,13 @@ section li::before {
 }
 
 section#drink li::before {
-	content: "🍺";
+	content: "🍺\FE0F"; /* beer mug followed by VS-16 */
 }
 
 section#finish li::before {
-	content: "🍻";
+	content: "🍻\FE0F"; /* beer clinking followed by VS-16 */
 }
 
 section#shot li::before {
-	content: "🥃";
+	content: "🥃\FE0F"; /* whiskey tumbler followed by VS-16 */
 }

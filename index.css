@@ -91,9 +91,10 @@ ul.contents > li {
     padding-left: 2.5em;
 }
 
-ul.contents > li > a{
+ul.contents > li > a {
     font-family: monospace;
     font-size: 1.25em;
+    display: inline-block;
 }
 
 ul.contents > li::before {
@@ -103,13 +104,13 @@ ul.contents > li::before {
 }
 
 ul.contents > li#up::before {
-	content: "\21A9";
+	content: "↩\FE0E"; /* left hook followed by VS-15 */
 }
 
 ul.contents > li.directory::before {
-	content: "\1F4C2";
+	content: "📂\FE0F"; /* open file folder followed by VS-16 */
 }
 
 ul.contents > li.document::before {
-	content: "\1F5CE";
+	content: "📄\FE0F"; /* page facing up followed by VS-16 */
 }
