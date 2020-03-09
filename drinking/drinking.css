@@ -18,6 +18,10 @@ section#drink li::before {
 	content: "🍺\FE0F"; /* beer mug followed by VS-16 */
 }
 
+section#chug li::before {
+    content: "😵\FE0F"; /* dizzy face followed by VS-16 */
+}
+
 section#finish li::before {
 	content: "🍻\FE0F"; /* beer clinking followed by VS-16 */
 }
