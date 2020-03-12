@@ -68,6 +68,7 @@ article > header > aside {
     width: auto;
     float: right;
     font-weight: 600;
+    clear: both;
 }
 
 a {

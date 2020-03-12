@@ -19,7 +19,7 @@ section#drink li::before {
 }
 
 section#chug li::before {
-    content: "😵\FE0F"; /* dizzy face followed by VS-16 */
+    content: "🚰\FE0F"; /* dizzy face followed by VS-16 */
 }
 
 section#finish li::before {
