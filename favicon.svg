@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   enable-background="new 0 0 64 64"
+   height="512"
+   viewBox="0 0 64 64"
+   width="512"
+   version="1.1"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <title
+     id="title969">Pen and Parchment</title>
+  <metadata
+     id="metadata967">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Pen and Parchment</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs965" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview963"
+     showgrid="false"
+     inkscape:zoom="1.65625"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <g
+     id="g960">
+    <g
+       id="g894">
+      <path
+         d="m8.036 5c2.761 0 5 2.239 5 5v5h-5c-2.761 0-5-2.239-5-5 0-2.761 2.238-5 5-5z"
+         fill="#f68820"
+         id="path892" />
+    </g>
+    <g
+       id="g898">
+      <path
+         d="m45.036 54v-7.5c0-1.105-.895-2-2-2 1.105 0 2-.895 2-2v-19.5-8.5c0-1.105-.895-2-2-2 1.105 0 2-.895 2-2v-.5c0-2.761-2.239-5-5-5h-32c2.761 0 5 2.239 5 5v10.5c0 1.105.895 2 2 2-1.105 0-2 .895-2 2v29.5c0 2.761 2.239 5 5 5h32c-2.762 0-5-2.239-5-5z"
+         fill="#fbbe18"
+         id="path896" />
+    </g>
+    <g
+       id="g928">
+      <g
+         id="g902">
+        <path
+           d="m26.036 14.5h12c.552 0 1-.448 1-1 0-.552-.448-1-1-1h-12c-.552 0-1 .448-1 1 0 .552.447 1 1 1z"
+           fill="#f68820"
+           id="path900" />
+      </g>
+      <g
+         id="g906">
+        <path
+           d="m20.036 19.5h18c.552 0 1-.448 1-1 0-.552-.448-1-1-1h-18c-.552 0-1 .448-1 1 0 .552.447 1 1 1z"
+           fill="#f68820"
+           id="path904" />
+      </g>
+      <g
+         id="g910">
+        <path
+           d="m20.036 24.5h18c.552 0 1-.448 1-1 0-.552-.448-1-1-1h-18c-.552 0-1 .448-1 1 0 .552.447 1 1 1z"
+           fill="#f68820"
+           id="path908" />
+      </g>
+      <g
+         id="g914">
+        <path
+           d="m20.036 29.5h18c.552 0 1-.448 1-1 0-.552-.448-1-1-1h-18c-.552 0-1 .448-1 1 0 .552.447 1 1 1z"
+           fill="#f68820"
+           id="path912" />
+      </g>
+      <g
+         id="g918">
+        <path
+           d="m20.036 34.5h18c.552 0 1-.448 1-1 0-.552-.448-1-1-1h-18c-.552 0-1 .448-1 1 0 .552.447 1 1 1z"
+           fill="#f68820"
+           id="path916" />
+      </g>
+      <g
+         id="g922">
+        <path
+           d="m20.036 39.5h18c.552 0 1-.448 1-1 0-.552-.448-1-1-1h-18c-.552 0-1 .448-1 1 0 .552.447 1 1 1z"
+           fill="#f68820"
+           id="path920" />
+      </g>
+      <g
+         id="g926">
+        <path
+           d="m20.036 44.5h8.5c.552 0 1-.448 1-1 0-.552-.448-1-1-1h-8.5c-.552 0-1 .448-1 1 0 .552.447 1 1 1z"
+           fill="#f68820"
+           id="path924" />
+      </g>
+    </g>
+    <g
+       id="g932">
+      <path
+         d="m18.036 49c-1.381 0-2.5 1.119-2.5 2.5s1.119 2.5 2.5 2.5h7.5v-5z"
+         fill="#bf6b1e"
+         id="path930" />
+    </g>
+    <g
+       id="g936">
+      <path
+         d="m18.036 49c2.761 0 5 2.239 5 5 0 2.761-2.239 5-5 5h32c2.761 0 5-2.239 5-5 0-2.761-2.239-5-5-5z"
+         fill="#f68820"
+         id="path934" />
+    </g>
+    <g
+       id="g958">
+      <g
+         id="g940">
+        <path
+           d="m35.036 39.5h5.929c1.326 0 2.598-.527 3.536-1.464l15-15c1.953-1.953 1.953-5.118 0-7.071l-.929-.929c-1.953-1.953-5.118-1.953-7.071 0l-15 15c-.938.938-1.464 2.209-1.464 3.536v5.928z"
+           fill="#b3b4b6"
+           id="path938" />
+      </g>
+      <g
+         id="g944">
+        <path
+           d="m35.036 39.5h5.929c1.326 0 2.598-.527 3.536-1.464l15-15c1.953-1.953 1.953-5.118 0-7.071l-.465-.465z"
+           fill="#808080"
+           id="path942" />
+      </g>
+      <g
+         id="g948">
+        <path
+           d="m48.036 26.5v-8l3.464-3.464c1.953-1.953 5.118-1.953 7.071 0l.929.929c1.953 1.953 1.953 5.118 0 7.071l-3.464 3.464z"
+           fill="#55525b"
+           id="path946" />
+      </g>
+      <g
+         id="g952">
+        <path
+           d="m48.036 26.5 11-11 .464.464c1.953 1.953 1.953 5.118 0 7.071l-3.464 3.465z"
+           fill="#353744"
+           id="path950" />
+      </g>
+      <g
+         id="g956">
+        <path
+           d="m31.036 44c-.128 0-.256-.049-.354-.146-.195-.195-.195-.512 0-.707l28-28c.195-.195.512-.195.707 0s.195.512 0 .707l-28 28c-.097.097-.225.146-.353.146z"
+           fill="#dbdee3"
+           id="path954" />
+      </g>
+    </g>
+  </g>
+</svg>
