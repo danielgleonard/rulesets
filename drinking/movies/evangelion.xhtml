@@ -35,6 +35,22 @@
 			
 			gtag('config', 'UA-56093027-6');
 		</script>
+		<script>
+			/**
+			* Function that registers a click on an outbound link in Analytics.
+			* This function takes a valid URL string as an argument, and uses that URL string
+			* as the event label. Setting the transport method to 'beacon' lets the hit be sent
+			* using 'navigator.sendBeacon' in browser that support it.
+			*/
+			var getOutboundLink = function(url) {
+			gtag('event', 'click', {
+				'event_category': 'outbound',
+				'event_label': url,
+				'transport_type': 'beacon',
+				'event_callback': function(){document.location = url;}
+			});
+			}
+		</script>
 	</head>
 	<body>
 		<article>
@@ -47,7 +63,8 @@
 				<nav>
 					⤣ <a href="../">Drinking game index</a>
 					<br/>
-					✎ <a rel="alternate" type="text/html" href="https://github.com/CombustibleLemon/rulesets/issues">Request changes or additions</a>
+					✎ <a rel="alternate" type="text/html" href="https://github.com/CombustibleLemon/rulesets/issues"
+						onclick="getOutboundLink('https://github.com/CombustibleLemon/rulesets/issues');">Request changes or additions</a>
 				</nav>
 				<!-- <a id="pdf" rel="alternate" href="./evangelion.pdf" media="print" type="application/pdf">🖨︎ Printable version (PDF)</a> -->
 			</header>
