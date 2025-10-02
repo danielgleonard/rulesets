@@ -55,7 +55,7 @@ article > header > h1 {
 }
 
 article > header > dl#credits > dd > ul {
-    pading-left: unset;
+    padding-left: unset;
 }
 
 a {
@@ -118,4 +118,5 @@ ul.contents > li.directory::before {
 ul.contents > li.document::before {
 	content: "📄\FE0F"; /* page facing up followed by VS-16 */
 }
+
 
