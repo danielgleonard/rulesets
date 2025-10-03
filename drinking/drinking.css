@@ -22,10 +22,15 @@ section#chug li::before {
     content: "🚰\FE0F"; /* dizzy face followed by VS-16 */
 }
 
+section#smoke li::before {
+	content: "🚬\FE0F"; /* cigarette followed by VS-16 */
+}
+
 section#finish li::before {
 	content: "🍻\FE0F"; /* beer clinking followed by VS-16 */
 }
 
 section#shot li::before {
 	content: "🥃\FE0F"; /* whiskey tumbler followed by VS-16 */
+
 }
